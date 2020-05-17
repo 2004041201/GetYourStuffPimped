@@ -1,0 +1,57 @@
+* {
+	margin: 0;
+}
+
+body {
+	background-image: url('achtergrond-tijgers.jpg');
+}
+
+#wrapper {
+	background-image: url('achtergrond-tijgers.jpg');
+	padding: 20px;
+	margin: auto;
+	width: 1020px;
+	font-family: Bahnschrift Light, Arial;
+}
+
+header {
+	background-color: #ffffff;
+	width: 1000px;
+	height: 80px;
+	margin-bottom: 10px;
+	padding-top: 20px;
+	float: left;
+	text-align: center;
+	border-width: 1px;
+	border-style: solid;
+	border-color: black;
+}
+
+h1 {
+	font-size: 32pt;
+}
+
+article {
+	background-color: #9ed2ff;
+	width: 350px;
+	height: 226px;
+	margin: 0 10px 10px 0;
+	padding: 5px;
+	cursor: pointer;
+  float: left;
+	text-align: center;
+}
+
+article:hover {
+	background-color: #;
+}
+
+#sidebar {
+	background-color: #46b8db;
+	width: 250px;
+	height: 700px;
+	margin: 0 10px 10px 0;
+	float: left;
+	text-align: center;
+	color: yellow
+}
